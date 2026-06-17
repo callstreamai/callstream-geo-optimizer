@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-  geo-optimizer:
+  callstream-geo-optimizer:
     build: .
     ports:
       - "8081:8081"
